@@ -1,2 +1,2 @@
-# SP_Ispitni_Zadaci
-Ispitni zadaci po Strukturno Programiranje
+# Испитни задачи по Структурно Програмирање
+Решенија од испитни задачи по Структурно Програмирање
